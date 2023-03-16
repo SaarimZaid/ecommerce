@@ -1,0 +1,45 @@
+.card{
+    padding: 20px;
+    box-sizing: border-box;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.card-header{
+    display: flex;
+}
+.card-header > img{
+    max-height: 250px;
+}
+.card-header > img:hover{
+    scale: 1.1;
+}
+.title-discription{
+    width: 20%;
+    margin-left: 20px;
+
+}
+.title-discription article{
+    text-align: justify;
+}
+
+.card-footer{
+    margin-left: 20%;
+}
+
+.card-button{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(203, 203, 0);
+    background-color: yellow;
+    margin-top: 16px;
+}
+.card-button:hover{
+    background-color: aqua;
+    scale: 1.2;
+}
+
+.price{
+    font-size: xx-large;
+    color: rgb(104, 216, 149);
+}

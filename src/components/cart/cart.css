@@ -1,0 +1,21 @@
+.kart{
+    padding: 100px;
+}
+
+.kart{
+    text-align: center;
+}
+
+.paymentBtn{
+    padding: 10px;
+    border-radius: 3px;
+    background-color: yellow;
+    border: 1px solid yellowgreen;
+    margin-top: 20px;
+}
+
+.details{
+    font-size: larger;
+    margin-top: 20px;
+    color: blue;
+}
